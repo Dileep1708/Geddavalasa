@@ -1,0 +1,8 @@
+site_name: "sampledem"
+site_description: "sample123"
+ 
+nav:
+  - Introduction: index.md
+ 
+plugins:
+  - techdocs-core
