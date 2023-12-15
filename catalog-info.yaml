@@ -1,0 +1,11 @@
+kind: Component
+metadata:
+  name: "sampledem"
+  description: "sample123"
+  annotations:
+    github.com/project-slug: Dileep1708/Geddavalasa
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "group:default/guests"
